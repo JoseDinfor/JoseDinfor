@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JoseDinfor
+- 👀 I’m interested in PHP
+- 🌱 I’m currently learning JavaScript 
+- 💞️ I’m looking to collaborate on simple proyect.
